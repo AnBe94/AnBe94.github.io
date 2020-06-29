@@ -8,3 +8,5 @@ Iron Man ist das Alter Ego des Multimilliardärs Anthony Edward Tony Stark. Dies
 * Philantropisch
 
 > Ich bin IRON MAN
+
+<img src="https://p2.piqsels.com/preview/825/1010/557/superhero-super-hero-iron-man-thumbnail.jpg"/>
