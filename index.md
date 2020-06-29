@@ -6,3 +6,5 @@ Iron Man ist das Alter Ego des Multimilliardärs Anthony Edward Tony Stark. Dies
 * Narzistisch
 * Intelligent
 * Philantropisch
+
+> Ich bin IRON MAN
